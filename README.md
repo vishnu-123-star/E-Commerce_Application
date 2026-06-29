@@ -223,41 +223,6 @@ Run ▶
 
 ---
 
-# 📸 Screenshots
-
-> Add your application screenshots here.
-
-Example:
-
-```
-screenshots/
-    login.png
-    home.png
-    details.png
-    upload.png
-    favorites.png
-```
-
-You can display them like this:
-
-```markdown
-## Login Screen
-
-![Login](screenshots/login.png)
-
-## Home Screen
-
-![Home](screenshots/home.png)
-
-## Product Details
-
-![Details](screenshots/details.png)
-
-## Upload Screen
-
-![Upload](screenshots/upload.png)
-```
-
 ---
 
 # 🔮 Future Enhancements

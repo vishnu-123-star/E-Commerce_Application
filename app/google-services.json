@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "476286933954",
+    "project_id": "shopsphere-71a44",
+    "storage_bucket": "shopsphere-71a44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476286933954:android:add539f7b607225de1145b",
+        "android_client_info": {
+          "package_name": "com.vishnu.shopsphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx5Xvby9kAJ0dM3chvajxO430nl7-YYjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

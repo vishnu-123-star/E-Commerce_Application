@@ -66,6 +66,7 @@ dependencies {
     implementation(libs.retrofit)
     implementation(libs.retrofit.gson)
 
+
     implementation(libs.okhttp)
     implementation(libs.okhttp.logging)
 
@@ -83,4 +84,6 @@ dependencies {
     debugImplementation(libs.androidx.compose.ui.tooling)
     debugImplementation(libs.androidx.compose.ui.test.manifest)
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.9.0")
+    implementation(libs.koin.android)
+    implementation(libs.koin.compose)
 }

@@ -3,9 +3,9 @@ package com.vishnu.shopsphere.auth
 import androidx.lifecycle.ViewModel
 import com.vishnu.shopsphere.repository.AuthRepository
 
-class AuthViewModel : ViewModel() {
-
-    private val repository = AuthRepository()
+class AuthViewModel(
+    private val repository: AuthRepository
+) : ViewModel() {
 
     fun login(
         email: String,

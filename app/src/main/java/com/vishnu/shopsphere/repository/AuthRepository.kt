@@ -2,9 +2,9 @@ package com.vishnu.shopsphere.repository
 
 import com.google.firebase.auth.FirebaseAuth
 
-class AuthRepository {
-
-    private val auth = FirebaseAuth.getInstance()
+class AuthRepository(
+    private val auth: FirebaseAuth
+) {
 
     fun login(
         email: String,
